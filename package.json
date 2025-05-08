@@ -1,0 +1,19 @@
+{
+  "name": "node-js-playground",
+  "version": "1.0.0",
+  "description": "Simple NodeJS test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandergarbuz/node-js-playground.git"
+  },
+  "author": "Alex Garbuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandergarbuz/node-js-playground/issues"
+  },
+  "homepage": "https://github.com/alexandergarbuz/node-js-playground#readme"
+}
