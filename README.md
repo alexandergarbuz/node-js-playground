@@ -1,2 +1,2 @@
-# node-js-playground
-Node.js playground
+# Node.js Playground
+Simple Node.js playground project
