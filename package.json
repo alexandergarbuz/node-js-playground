@@ -19,5 +19,8 @@
   "homepage": "https://github.com/alexandergarbuz/node-js-playground#readme",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
   }
 }
