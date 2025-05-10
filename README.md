@@ -10,9 +10,7 @@ This is a minimal Node.js playground project designed for experimenting with mic
 - Environment variable support via `.env` and `dotenv`
 - Auto-restarting dev server using `nodemon`
 - Modularized structure for microservices (e.g. `service.js`)
----
-## 📁 Project Structure
----
+
 ## 🚀 Getting Started
 ### 1. Clone the Repo
 
