@@ -31,5 +31,5 @@ HOST=127.0.0.1
 ### 4. Run in Development Mode
 This uses `nodemon` for live reloading and dotenv for environment configuration.
 ```
-npm run dev
+npm start
 ```
